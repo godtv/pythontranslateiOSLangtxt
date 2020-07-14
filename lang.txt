@@ -1,0 +1,13 @@
+"sure" = "Close";
+"cancel" = "Cancel";
+"back" = "Back";
+"tips" = "Prompt";
+"qrcode" = "QR Code";
+"scanqrcode" = "Scan QR Code";
+"qrcodegenerator" = "QR Code Generator";
+"savebarcodeinfo"= "Just enter your text. The QR code will be generated automatically as you type. Just click on the “Save” button to get the created QR code image. QR codes are the way to go to create a link between the real world products (tagged with the QR code) and the Internet. Because QR codes make it so easy to transfer a web link to a mobile phone, they provide a significantly lower barrier to visit a site with a smart phone.";
+
+"password"="Password";
+"signin"="Sign In";
+"username"="User Name";
+"sendverfiy" = "Send";
